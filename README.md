@@ -4,7 +4,7 @@ Hello there! I'm Muneeza, glad to see to see you here! I'm a passionate, curious
 
 ## Background 🌆
 
-With a Master of Public Health concentrated in Biostatistics and post graduate in Artificial Intelligence and Machine Learning: Business Applications, I'm enthusiastic about statistical analysis and leveraging data-driven insights to make informed decisions and thriving on exploring emerging technologies and engaging in diverse projects. My goal is to utilize my passion in machine learning and data science to develop creative solutions to complex problems and drive positive change in fields related to finance, healthcare, and travel. When I am not working, I love to bake, hike, explore different coffee shops, and travel (when I get a chance!).
+With a Master of Public Health concentrated in Biostatistics and post graduate in Artificial Intelligence and Machine Learning: Business Applications, I'm enthusiastic about statistical analysis and leveraging data-driven insights to make informed decisions and thrive on exploring emerging technologies and engaging in diverse projects. My goal is to utilize my passion in machine learning and data science to develop creative solutions to complex problems and drive positive change in fields related to finance, healthcare, and travel. When I am not working, I love to bake, hike, explore different coffee shops, and travel (when I get a chance!).
 
 ## Skills 🤹‍♀️
 
